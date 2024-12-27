@@ -9,7 +9,7 @@ MSc Project Management student with a strong foundation in project planning, ris
 ## Skills
 
 - **Project Management:** Project Planning, Scope Management, Risk Assessment
-- **Tools:** Microsoft Project, Trello, Asana, JIRA, Microsoft Office Suite
+- **Tools:** Microsoft Project, Trello, Asana, JIRA, Microsoft Office Suite, Power Bi
 - **Methodologies:** Agile, Waterfall, Lean
 - **Communication:** Strong written and verbal communication skills, Active listening
 - **Leadership:** Team Coordination, Conflict Resolution, Decision Making
